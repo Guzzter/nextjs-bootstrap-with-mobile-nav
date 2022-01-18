@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). After that [React Bootstrap](https://react-bootstrap.netlify.app/getting-started/introduction) is added.
+
+This sample project demonstrates responsive NavBar loading menuLinks configuration from /utils/Config.jsx
+It also demonstrates how to work with submenus (only 2nd level) and marking menu items 'active' to indicate the location of current page in the menu.
 
 ## Getting Started
 
